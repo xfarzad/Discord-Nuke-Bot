@@ -2,7 +2,7 @@
 A discord bot which will help you to get rid of channels and members in an old guild.
 
 ### Points to be Noted 
-- NOTE I AM NOT RESPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
+- Do not use the bot for wrong purpose. I am not responsible if your discord account gets terminatd.
 - You will also need to be a admin of a server to invite this bot.
 
 Please ⭐ this repo if you like the repository.
